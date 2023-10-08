@@ -11,21 +11,27 @@ If you have any feedback or suggestions for improvements, please feel free to op
 License
 This project is licensed under the MIT License - see the LICENSE file for details. You can copy and paste this code into a Markdown file and modify the text as needed.
 
+
 Test-Templates
- Test Plan
- Test Cases
- Bug Report
- RTM
- Test Reports
- Test Metrics
+--
+* Test Plan
+* Test Cases
+* Bug Report
+* RTM
+* Test Report
+* Test Metrics
+
+
+
 
 Project 1
-Test Plan
-Test Cases
-Bug Report
-RTM
-Test Reports
-Test Metrics
+--
+* Test Plan
+* Test Cases
+* Bug Report
+* RTM
+* Test Reports
+* Test Metrics
 
 Test Plan I have created a Test Plan for the Project
 
